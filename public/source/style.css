@@ -13,7 +13,7 @@ body {
     margin-bottom: 0 !important;
 }
 
-#section-one-container {
+#section-one-container, #section-three-container {
     height: 100%;
     position: relative;
     background-image: url('../assets/grids.svg');
