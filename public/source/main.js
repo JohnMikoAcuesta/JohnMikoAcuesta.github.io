@@ -1,3 +1,9 @@
+function scrollToProject(){
+  document.getElementById("project").scrollIntoView({ 
+    behavior: 'smooth' 
+ });
+}
+
 const btnScrollToTop = document.querySelector(".btnScrollToTop");
 
 // scroll to top of page when button clicked
